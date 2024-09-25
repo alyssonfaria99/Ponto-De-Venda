@@ -527,13 +527,6 @@ Critérios de aceite:
 
 </details>
 
-## Aulas úteis:
 
--   [Envio de e-mails](https://aulas.cubos.academy/turma/3ab67d07-5445-4780-984d-b01eaf98a8e7/aulas/973bfcdc-ea6f-49b5-aeec-3750beda2a24)
--   [Validações e boas práticas](https://aulas.cubos.academy/turma/3ab67d07-5445-4780-984d-b01eaf98a8e7/aulas/744b2a2a-deb4-4af8-8dfd-28424c67d943)
--   [Deploy](https://aulas.cubos.academy/turma/3ab67d07-5445-4780-984d-b01eaf98a8e7/aulas/6504e3a9-adce-4f69-bb90-d8bda4538bac)
--   [Testes com Jest](https://aulas.cubos.academy/turma/3ab67d07-5445-4780-984d-b01eaf98a8e7/aulas/f88a4714-70dd-4b66-8039-0df89f4398cb)
--   [Metodologias Ágeis](https://aulas.cubos.academy/turma/3ab67d07-5445-4780-984d-b01eaf98a8e7/aulas/f6d51fc9-7a51-438a-ae7a-11abda7f1bf2)
--   [Upload de arquivos](https://aulas.cubos.academy/turma/3ab67d07-5445-4780-984d-b01eaf98a8e7/aulas/71355ea8-5192-4e0b-bf99-5be80bd0efba)
 
-###### tags: `back-end` `módulo 5` `nodeJS` `PostgreSQL` `API REST` `desafio`
+###### tags: `back-end` `módulo 5` `nodeJS` `PostgreSQL` `API REST`
