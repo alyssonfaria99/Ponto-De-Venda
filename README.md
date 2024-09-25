@@ -1,10 +1,3 @@
-# desafio-backend-05-pdv-dbe-b2b-t07-ifood
-![](https://i.imgur.com/xG74tOh.png)
-
-# Desafio Módulo 5 - Backend
-
-Seja bem vindo(a) ao desafio do módulo 5.
-
 Sua tarefa como desenvolvedor(a) será criar uma API para um PDV (Frente de Caixa). Esse será um projeto piloto, ou seja, no futuro outras funcionalidades serão implementadas.
 
 
