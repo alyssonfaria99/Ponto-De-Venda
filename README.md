@@ -33,7 +33,29 @@ Este projeto consiste na criação de uma API para um sistema de PDV (Frente de 
 - **Serviços de Armazenamento (Blackblaze)**: Para upload de imagens de produtos.
 
 ## Instalação
+### Pré-requisitos
+   - Node.js >= 14.0.0
+   
+   - PostgreSQL >= 13.0.0
+   
 1. Clone o repositório
    ```bash
      git clone https://github.com/alyssonfaria99/Ponto-De-Venda.git
      cd Ponto-De-Venda
+
+2. Instale as dependências
+   ```bash
+      npm install
+
+3. Configura as variáveis de ambiente criando um arquivo .env na raíz do projeto, seguindo o exemplo:
+   ```bash
+   DB_HOST=localhost
+   DB_PORT=5432
+   DB_USER=seuusuario
+   DB_PASSWORD=suasenha
+   DB_NAME=pdv
+   JWT_SECRET=sua_chave_secreta
+   EMAIL_USER=seuemail@example.com
+   EMAIL_PASS=suasenha
+   STORAGE_API_URL=https://api.armazem.com
+   STORAGE_API_KEY=sua_api_key
