@@ -42,6 +42,7 @@ Este projeto consiste na criação de uma API para um sistema de PDV (Frente de 
    ```bash
    git clone https://github.com/alyssonfaria99/Ponto-De-Venda.git
    cd Ponto-De-Venda
+   cd '.\Projeto Final\desafio-backend-modulo-05-sistema-pdv-dbe-b2b-t07-ifood\'
 
 2. Instale as dependências
    ```bash
